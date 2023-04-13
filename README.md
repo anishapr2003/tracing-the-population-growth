@@ -13,3 +13,4 @@ data tableau link https://prod-apsoutheast-a.online.tableau.com/#/site/anishapr/
 my  sql population data 
 story population link https://prod-apsoutheast-a.online.tableau.com/#/site/anishapr/workbooks/229746/views
 story link https://prod-apsoutheast-a.online.tableau.com/#/site/anishapr/workbooks/229744/views
+brain storming link file:///C:/Users/SYSTEM-1%20LiB/Downloads/Brainstorming%20and%20ideation(Anisha%20P%20R)_2023-04-13_09-59-46.pdf
